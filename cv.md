@@ -16,3 +16,38 @@ Currently I work in a small company that is engaged in the development of optoel
 * IDE: VSCode, Pycharm
 * CorelDRAW Graphics Suite
 * MatLab, LabView
+
+
+***
+#### Experience
+* Research Engineer 2021-...
+
+#### Education
+* **Master**, Moscow Engineering Physics Institute
+    + ​Department of Laser Physics
+* **Result School**
+    + Basics of HTML5 and CSS3
+* **Stepik**
+    + Python 3 Programming
+    + Python 3 OOP
+* **RS School**
+    + Course «JavaScript/Front-end. Stage 1» (in progress)
+***
+
+#### Code example
+
+```
+function multiple(a, b) {
+    return a * b;
+  }
+  
+  let result = multiple(1, 2);
+  alert( result );
+  ```
+***
+#### Languages
+* English (Intermediate)
+* Russian (Native)
+***
+
+<a href="https://rs.school/"><img src="https://rs.school/images/rs_school.svg" alt= "RS School Logo" width=100></a>
